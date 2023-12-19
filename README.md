@@ -1,2 +1,2 @@
 # UI-Framework-for-Personalisation-REC-RIT
-REACT and Node.js
+REACT, Node.js, MongoDB
